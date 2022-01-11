@@ -1,4 +1,4 @@
-Git Exercices
+# Git Exercices
 =============
 
 Theses are very simple exercices to learn to manipulate git.
@@ -12,4 +12,3 @@ In each folder, simply run ./create.sh and follow the guide ;)
 If you want to re-read the instructions of the exercice, just cat
 the file readme.txt.
 
-# Git
